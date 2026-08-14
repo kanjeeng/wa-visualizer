@@ -1,0 +1,4 @@
+venv/
+wa_temp_data/
+static/
+__pycache__/
